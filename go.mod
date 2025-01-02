@@ -7,7 +7,7 @@ toolchain go1.23.3
 require (
 	github.com/docker/cli v27.4.1+incompatible
 	github.com/google/go-containerregistry v0.20.2
-	github.com/onsi/gomega v1.35.0
+	github.com/onsi/gomega v1.35.1
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.8.1
